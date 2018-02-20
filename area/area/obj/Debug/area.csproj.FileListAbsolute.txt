@@ -1,0 +1,8 @@
+D:\projects\area\area\bin\Debug\area.exe.config
+D:\projects\area\area\bin\Debug\area.exe
+D:\projects\area\area\bin\Debug\area.pdb
+D:\projects\area\area\bin\Debug\Figures.dll
+D:\projects\area\area\bin\Debug\Figures.pdb
+D:\projects\area\area\obj\Debug\area.csprojResolveAssemblyReference.cache
+D:\projects\area\area\obj\Debug\area.exe
+D:\projects\area\area\obj\Debug\area.pdb

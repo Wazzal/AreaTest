@@ -1,0 +1,11 @@
+D:\projects\area\AreaTest\bin\Debug\AreaTest.dll
+D:\projects\area\AreaTest\bin\Debug\AreaTest.pdb
+D:\projects\area\AreaTest\bin\Debug\area.exe
+D:\projects\area\AreaTest\bin\Debug\Figures.dll
+D:\projects\area\AreaTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\projects\area\AreaTest\bin\Debug\area.pdb
+D:\projects\area\AreaTest\bin\Debug\Figures.pdb
+D:\projects\area\AreaTest\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\projects\area\AreaTest\obj\Debug\AreaTest.csprojResolveAssemblyReference.cache
+D:\projects\area\AreaTest\obj\Debug\AreaTest.dll
+D:\projects\area\AreaTest\obj\Debug\AreaTest.pdb

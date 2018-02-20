@@ -1,0 +1,5 @@
+D:\projects\area\Figures\bin\Debug\Figures.dll
+D:\projects\area\Figures\bin\Debug\Figures.pdb
+D:\projects\area\Figures\obj\Debug\Figures.csprojResolveAssemblyReference.cache
+D:\projects\area\Figures\obj\Debug\Figures.dll
+D:\projects\area\Figures\obj\Debug\Figures.pdb
